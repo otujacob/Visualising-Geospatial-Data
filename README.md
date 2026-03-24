@@ -1,19 +1,6 @@
 # Visualising-Geospatial-Data
 This project presents an exploratory geospatial and statistical analysis of Airbnb listings across New York City's five boroughs. Using Python-based visualisation tools, listing distribution, nightly pricing patterns, room-type composition, and availability are examined spatially and analytically
 
-Project Structure
-
-├── AB_NYC_2019.csv               # Source dataset (Kaggle)
-├── jupyter_map_snippet.py        # Jupyter-ready code for map & charts
-├── nyc_airbnb_map.html           # Interactive Folium map output
-├── chart1_price_borough.png      # Avg nightly price by borough
-├── chart2_room_type.png          # Room type distribution (donut)
-├── chart3_price_band.png         # Listing count by price band
-├── chart4_availability.png       # Availability vs. listing count
-└── Task4_Geospatial_Report.docx  # Full written report
-
----
-
 ## How to Run
 
 **1. Install dependencies**
